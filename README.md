@@ -1,6 +1,6 @@
 # PintOS--Stantanford-University
 
-Implementação do 2.2.2 Alarm Clock e 2.2.4Advanced Scheduker
+Implementação do 2.2.2 Alarm Clock e 2.2.4 Advanced Scheduker
 
 https://www.scs.stanford.edu/20wi-cs140/pintos/pintos_1.html#SEC1
 
